@@ -1,0 +1,24 @@
+body {
+  background-color: green;
+}
+
+button {
+  border-radius: 20px;
+  background-color: white;
+  /* border: none; */
+}
+
+.container {
+  /* height: 50px; */
+  padding: 50px;
+  border: 1px solid black;
+}
+
+.headers {
+  color: blue;
+}
+
+.list-thingy {
+  list-style-type: upper-roman;
+}
+
